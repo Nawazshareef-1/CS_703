@@ -1,0 +1,15 @@
+{
+  "model": "LinearSVC",
+  "classes": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ],
+  "test_weighted_f1": 0.7555,
+  "negative_f1": 0.7273,
+  "neutral_f1": 0.3974,
+  "positive_f1": 0.8451,
+  "confidence_threshold": 0.65,
+  "working_sample_rows": 50000,
+  "base_directory": "C:\\CS703"
+}
